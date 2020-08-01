@@ -43,7 +43,7 @@ Once your Twilio account is set up, take note of your phone number: 1-XXX-XXX-XX
 To enter the game, *text your name*. <br>
 **NOTE:** This will not start the game yet. You should receive a welcome message with the name you just sent.
 
-Everyone should agree upon a time limit for the game (ex: 20 minutes). Keeping track of time must be done manually (set an alarm) :alarm_clock:.
+Everyone should agree upon a time limit for the game (ex: 20 minutes). Keeping track of time must be done yourself (set an alarm) :alarm_clock:.
 
 Once everyone has entered the game, everyone can start by *texting "go"*.
 
