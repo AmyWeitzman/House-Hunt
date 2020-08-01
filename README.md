@@ -1,6 +1,6 @@
 # Welcome to HOUSE HUNT!
 
-HOUSE HUNT is basically like a physical version of the game Scattergories, with a few unique twists. Just like in Scattergories, you will be given a letter and a set of categories and your task will be to come up with something that starts with that letter for each category. The catch? The items you come up with must be physical items around the house and you will have to search for them. Perfect for those quarantined at home :house:!
+HOUSE HUNT is basically like a physical version of the game Scattergories, with a few unique twists. Just like in Scattergories, you will be given a letter and a set of categories, and you must come up with something that starts with that letter for each category. The catch? The items you come up with must be physically located around the house and you must find them. Perfect for those quarantined at home :house:!
 
 Another feature that sets this game apart from how Scattergories is normally played (and brings a more modern twist) is that this game requires the use of your cell phone :iphone:. Most parts of the game will be done automatically through texting and taking pictures. 
 
