@@ -27,37 +27,44 @@ The following are a few unique rules for specific categories. These categories a
 - Technology - modern technology (1900s+), not fork or shoe or pencil :pencil2:
 - Expensive - greater than $100 if bought today (well, pre-coronavirus, basically 2010s+). If it was expensive in the 1900s but is cheap today, it does not count, even if you are specifically referring to the old version. However, if you are specifically referring to an old, cheap object that is expensive today that is fine. So if you found a flip phone that cost $50 in the 1990s, you can still use it for "phone" since a phone today is expensive. It's the word, not the object, that must be expensive today. Also, bought today could mean like an artifact or old family heirloom that if you sold today (someone else bought) would be expensive (even if was cheap when originally bought or made in the olden days).
 - Ends with letter: the object must end with the letter, does not need to start with it
-- For "high" and "low", the object must be above your waist and below your waist, respectively. NOTE: You cannot move objects from their position to recategorize their height.
+- For "high" and "low", the object must be above your waist and below your waist, respectively. <br>
+**NOTE:** You cannot move objects from their position to recategorize their height.
 - Use up and replace - something you typically use up and replace (shampoo, toothpaste, paper towels, etc...)
 - In your room - something in YOUR room
 - 21st century item - something that did not exist before the 21st century. You can use an iPhone or smartphone if that is the word you use. You cannot use an iPhone for "phone" since the phone was invented before the 21st century. 
-- Sweet - I was thinking like candy, but I guess you could use it as "nice", but remember everyone votes so don't make it too far-fetched.
+- Sweet - I was thinking like candy :lollipop:, but I guess you could use it as "nice", but remember everyone votes so don't make it too far-fetched.
 
 # How to Play
-The core functionality of the game uses the Twilio API. 
-
+The core functionality of the game uses the Twilio API. <br>
+<img src="assets/twilio_logo.png" width=300 height=100 /><br>
 In order to play, you will need to set up a Twilio account (a free-trial version is fine) and get a phone number. [Help](https://support.twilio.com/hc/en-us/articles/223136107-How-does-Twilio-s-Free-Trial-work-)
 
 Once your Twilio account is set up, take note of your phone number: 1-XXX-XXX-XXXX. This will be the number you send/receive texts from during the game. Give this number to all players. 
 
-To enter the game, *text your name*. <br>
-**NOTE:** This will not start the game yet. You should receive a welcome message with the name you just sent.
+To enter the game, *text your name*. 
+**NOTE:** This will not start the game yet. You should receive a welcome message with the name you just sent.<br>
+<img src="assets/send_name.jpg" width=400 height=200 /><br>
 
 Everyone should agree upon a time limit for the game (ex: 20 minutes). Keeping track of time must be done yourself (set an alarm) :alarm_clock:.
 
-Once everyone has entered the game, everyone can start by *texting "go"*.
-
+Once everyone has entered the game, everyone can start by *texting "go"*.<br>
+<img src="assets/go.jpg" width=400 height=300 /><br>
 You should receive a text with a letter and list of categories for that round. Let the search begin!
 
-When you find an object, take a picture of it and send it to the number with the following message: "{category#}. word" (ex: if you found an egg for category #1 in the list, text 1. Egg). <br>
-**NOTE:** Send this info in a single text (pic and obj name). 
+When you find an object, take a picture of it and send it to the number with the following message: "{category#}. word"<br>
+For example, if you found an egg for category #1 in the list, text *1. Egg*). <br>
+**NOTE:** Send this info in a single text (pic and obj name), NOT send pic then send message.<br>
+<img src="assets/obj.JPG" width=400 height=350 /><br>
 
 After you send your object text, you should receive a confirmation text. Once you have found all 5 objects, you will receive the info for the next round. Once you have completed the last round, you will receive a text telling you that you are done. 
+<img src="assets/obj_confirm.jpg" width=450 height=200 /><br>
 
 If you are stuck on a category and would like to move on to the next round anyway, *text "skip"*. This will move you to the next round. <Br>
 **NOTE:** Once you move to the next round, you cannot go back to something from a previous round.
+ <img src="assets/skip.jpg" width=400 height=300 /><br>
 
 If, at any time, you would like to stop playing all together, *text "og"* (the opposite of go).
+<img src="assets/og.jpg" width=400 height=200 /><br>
 
 **NOTE:** You cannot search the internet for ideas or screenshot images of objects.
 
@@ -89,10 +96,14 @@ $ pip install requirements.txt
 ### Running game
 - Start/Connect server
  - [Install ngrok](https://www.softwaretestinghelp.com/ngrok-introduction/)
- - Once you have ngrok running, take note of the exposed url (listed as Forwarding). Should look something like this: https://xxxxxxx.ngrok.io
- - Go to your Twilio account. On the phone numbers tab, choose your number. Scroll down to messaging. In the "A Message Comes In" section, set the Webhook to that ngrok url.
+ - Once you have ngrok running, take note of the exposed url (listed as Forwarding). Should look something like this: https://xxxxxxx.ngrok.io <br>
+ <img src="assets/ngrok_url.PNG" width=600 height=300 /><br>
+ - Go to your Twilio account. On the phone numbers tab, choose your number.<br>
+ <img src="assets/twilio_number.PNG" width=400 height=450 /><br>
+ - Scroll down to messaging. In the "A Message Comes In" section, set the Webhook to that ngrok url. <br>
+ <img src="assets/twilio_ngrok.PNG" width=750 height=400 /><br>
  - Make sure you hit save and you should be all set to go for the game!
-### Scoring Wesite
+### Scoring Website
 **NOTE:** only do this after you have finished playing the game<br>
 - Run scoring website<br>
 **make sure you are in the house-hunt directory**
