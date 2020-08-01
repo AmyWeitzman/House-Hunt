@@ -1,0 +1,77 @@
+body {
+    color: white;
+    background-color: black;
+}
+
+#header {
+    text-align: center;
+    font-size: 70px;
+    color: rgb(0, 170, 255);
+}
+
+.text {
+    font-family: "Helvetica", sans-serif;
+    font-size: 40px;
+}
+
+table {
+    border-collapse: collapse;
+    border: 5px solid white;
+    text-align: center;
+    width: 100%;
+}
+
+th, td {
+    border: 5px solid white;
+}
+
+.table-heading, #category {
+    font-weight: bold;
+}
+
+#category {
+    color: rgb(204, 0, 0);
+}
+
+#player-name {
+    color: rgb(255, 209, 26);
+}
+
+#letter {
+    color: rgb(166, 77, 255);
+}
+
+#round_num {
+    color: green;
+}
+
+.checkbox {
+    width: 50px;
+    height: 50px;
+}
+
+.none {
+    font-style: italic;
+}
+
+#button {
+    background-color: black;
+    color: white;
+    text-align: center;
+    border-radius: 20%;
+    padding: 10px;
+}
+
+#button:hover {
+    color: black;
+    background-color: white;
+}
+
+#button-div {
+    text-align: center;
+    margin: 10px;
+}
+
+#score {
+    color: red;
+}

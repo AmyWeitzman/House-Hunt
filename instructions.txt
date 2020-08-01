@@ -1,0 +1,76 @@
+Welcome to HOUSE HUNT!
+
+HOUSE HUNT is basically like a physical version of the game Scattergories, with a few unique twists. Just like in Scattergories, you will be given a letter and a set of categories and your task will be to come up with something that starts with that letter for each category. The catch? The items you come up with must be physical items around the house and you will have to search for them. Hope you wore your running shoes and did some stretches cuz this game may get intense. 
+
+Another thing which sets this game apart from how we normally play Scattergories is that this game requires the use of your cell phone. If you do not currently have your phone on you, let me know so I can call 911 cuz you must be having trouble breathing. Jokes aside, if you do not have your phone, please go get it (and if it needs charging, do it now while I finish these somewhat long instructions). 
+
+Most parts of the game will be done automatically through texting. That being said, there may be some technical difficulties along the way. I will explain the format in which you should send texts and images, as well as the responses you should receive. If something weird seems to be happening, let me know. I will be monitoring the server here. If something happens and it goes down, the game will no longer work. I will text the Family group chat to let you know how to proceed (it will most likely involve having to start over so please pay attention).
+
+Also, just FYI, there will be a message at the beginning of each text that says something like "sent from a trial twilio account". Just ignore that, the actual message is after that blurb.
+
+Ok, let's get into the format and rules of the game.
+
+The game will consist of 3 rounds. Each round, you will receive a text with a letter and a list of 5 categories.  You must search around the house to find something that fits each category and starts with the letter. Don't worry, I removed some of the harder letters and the categories are fairly broad.
+
+There are a few rules for specific categories so I'll go through them now, but if you forget while playing, you can ask later. 
+
+Most of the categories are meant to be like "something related to ___". So, you don't need to find the actual object, it could just be something depicting it or something normally associated with the category. For instance, say the category is "Outdoors". You don't necessarily need to go outdoors to find something. You could find a shirt with a flower on it or a lawn chair from the garage. It just has to be something that has to do with "outdoors". NOTE, I said "normally associated", you cannot just say "well I could take this outdoors so...". Another example, if the category was "bugs", you could find an actual bug, a shirt with a bug on it, a toy bug, a mug with a bug on it, a book about bugs, etc.., but don't go too crazy. 
+
+At the end, we will go through everyone's items and vote on whether your object counts. You can give an explanation if necessary. Like Scattergories, if multiple players have the same object (not literal object, but the word they chose) for the same category, then those players will not get points. You want your answers to be unique, but not too far-fetched. 
+
+Now, the following are some categories that don't follow the usual "something that has to do with ___". These categories are more like abstract nouns, for which you will pick something that fits the category that starts with the letter, and then find an object that exhibits that characteristic.
+- Color - you must think of a color that starts with the letter and then find an object that is that color. The object itself need not start with the letter, just the color should start with the letter. 
+- Adjective - the adjective must start with the letter, but the object you choose that exemplifies the adjective doesn't need to start with the letter. 
+- Occupation - this will be something related to a specific occupation. The object is the thing that starts with the letter, not the occupation you choose. However, the object must relate to a specific occupation. You can't just say "well there must be a job that uses paper so I'm gonna find a paper". It should be more like "If I was a __, I would use/wear a blank ___."
+- Foreign - this can cover multiple things: an item that has a label that it was made in another country, an item that you know for sure came from another country (like your friend bought you earrings in Japan, not "well everything came from China"), something that has a foreign name (Venetian blinds, chimichanga), something that depicts a scene, people, or language from another country, etc... For this category, either the object or the country that it is associated with can start with the letter.
+- For categories like "hot", "cold", "noisy", "wet", "messy", the object must be something that is normally like that or when used as typically intended is supposed to be like that. For instance, you cannot say a "pot" is noisy just because you can bang on it and make noise. Or say tissue paper is noisy because you can crinkle it up. It must be something that is intended to make noise or needs to make noise as part of its function. A washing machine would count, a fan could count, a dog could count. Also, you can't say ice cream is warm because it would be if you left it in the sun. Ice cream is typically eaten cold. Or that anything is wet because you could put it in water. 
+- Book - name of book, not including "the" or "a"
+- For the categories about "long" or "short", this means longer than 1 ft and shorter than 1 ft, respectively. You don't need to measure, rough estimate is fine.
+- Technology - modern technology (1900s+), not fork or shoe or pencil
+- Expensive - greater than $100 if bought today (well, pre-coronavirus, basically 2010s+). If it was expensive in the 1900s but is cheap today, it does not count, even if you are specifically referring to the old version. However, if you are specifically referring to an old, cheap object that is expensive today that is fine. So if you found a flip phone that cost $50 in the 1990s, you can still use it for "phone" since a phone today is expensive. It's the word, not the object, that must be expensive today. Also, bought today could mean like an artifact or old family heirloom that if you sold today (someone else bought) would be expensive (even if was cheap when originally bought or made in the olden days).
+- Ends with letter: the object must end with the letter, does not need to start with it
+- For "high" and "low", the object must be above your waist and below your waist, respectively. NOTE: You cannot move objects from their position to recategorize their height.
+- Use up and replace - something you typically use up and replace
+- In your room - something in YOUR room, you specifically
+- 21st century item - something that did not exist before the 21st century. You can use an iPhone or smartphone if that is the word you use. You cannot use an iPhone for "phone" since the phone was invented before the 21st century. 
+- Sweet - I was thinking like candy, but I guess you could use it as "nice", but remember we all vote so don't make wild claims.
+
+NOTE: You cannot search the internet for ideas or screenshot images of objects.
+
+Any questions about what counts as an object? You can ask me questions throughout the game if you need help.
+
+Moving on. I'm going to explain what you do when you find an object and give a tech demo for those older folks who aren't as tech savvy. Like I said you should pay attention to the format of what you send so we don't have any issues on the backend.
+
+When you find an object, take a picture of it and send it to the number I will tell you later with the following message: "{category #}. word". NOTE: Please send this info in a single text (pic and obj name).  <<DEMO>>
+
+After you send your object text, you should receive a confirmation text. Once you have found all 5 objects, you will receive the info for the next round. Once you have completed the last round, you will receive a text telling you that you are done. 
+
+If you are stuck on a category and would like to move on to the next round anyway, text "skip". This will move you to the next round. NOTE: Once you move to the next round, you cannot go back to something from a previous round.
+
+If, at any time, you would like to stop playing all together, text "og", the opposite of go.
+
+If you ever receive a text saying "INVALID RESPONSE", either you sent something wrong or the server went down so it thinks you sent something wrong. Check what you last sent. If it looks like your mistake, then no worries, keep playing. If it is the latter, let me know!
+
+Like regular Scattergories, there will be a time limit. However, it won't be per round, it will be for the entire game (3 rounds). You will have 20 minutes total. I will send text reminders for time at 10 minutes, 5 minutes, and 1 minute left. When I send the final text that time is up, you must stop. Extra points will be awarded for how fast you finish (finish as in you have decided that you are done, even if you didn't find everything). Each object that you found that counts will be 1 point. First place will receive an extra 3 points, second an extra 2 points, and third 1 extra point. When you are stuck on a category, consider the tradeoff of spending extra time thinking about it or skipping to the next round so you might be able to make up for it by placing well.
+
+When everyone has finished, we will meet back here and go over everyone's findings. We will collectively decide if your objects count and give points accordingly. The player with the most points wins!
+
+Any questions?
+
+Things to Note:
+- The letter and categories should be the same for each player every round for fairness.
+- You don't need to find things in the order specified. Just make sure you use the correct category number in your text message.
+- You do not get any extra items
+- You cannot be wearing or holding the item
+- The letters and categories are randomly selected, thus may have same pair again (lucky you!)
+- You can travel outside as long as stay on Weitzman property
+
+Any questions?
+
+Here is the number you will be using: 1-706-810-5903. To enter the game, text your name. NOTE: This will not start  the game yet. You should receive a welcome message with the name you just sent.
+
+Again, if anything goes wrong, cuz you know technology, let me know. If I notice something I will send an alert in the Family group chat.
+
+Any last questions?
+
+Ok, text "go" to begin!
