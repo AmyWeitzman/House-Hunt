@@ -110,3 +110,5 @@ $ pip install requirements.txt
 ```
 $ npm start
 ```
+
+**Have Fun!** :smiley:
