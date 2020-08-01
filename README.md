@@ -34,7 +34,9 @@ The following are a few unique rules for specific categories. These categories a
 - Sweet - I was thinking like candy, but I guess you could use it as "nice", but remember everyone votes so don't make it too far-fetched.
 
 # How to Play
-The core functionality of the game uses the Twilio API. In order to play, you will need to set up a Twilio account (a free-trial version is fine) and get a phone number. [Help](https://support.twilio.com/hc/en-us/articles/223136107-How-does-Twilio-s-Free-Trial-work-)
+The core functionality of the game uses the Twilio API. 
+
+In order to play, you will need to set up a Twilio account (a free-trial version is fine) and get a phone number. [Help](https://support.twilio.com/hc/en-us/articles/223136107-How-does-Twilio-s-Free-Trial-work-)
 
 Once your Twilio account is set up, take note of your phone number: 1-XXX-XXX-XXXX. This will be the number you send/receive texts from during the game. Give this number to all players. 
 
@@ -85,12 +87,13 @@ $ git clone https://github.com/AmyWeitzman/House-Hunt.git
 $ pip install requirements.txt
 ```
 ### Running game
-- Start ngrok server
-```
-$
-```
+- Start/Connect server
+ - [Install ngrok](https://www.softwaretestinghelp.com/ngrok-introduction/)
+ - Once you have ngrok running, take note of the exposed url (listed as Forwarding). Should look something like this: https://xxxxxxx.ngrok.io
+ - Go to your Twilio account. On the phone numbers tab, choose your number. Scroll down to messaging. In the "A Message Comes In" section, set the Webhook to that ngrok url.
+ - Make sure you hit save and you should be all set to go for the game!
 ### Scoring Wesite
-**NOTE:** only do this after the game is complete<br>
+**NOTE:** only do this after you have finished playing the game<br>
 - Run scoring website<br>
 **make sure you are in the house-hunt directory**
 ```
